@@ -25,3 +25,7 @@ end
 def length_of_string(string)
 	return string.length
 end
+
+def add_string_as_number(string_1, string_2)
+	
+end
