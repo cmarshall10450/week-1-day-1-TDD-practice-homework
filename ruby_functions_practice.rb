@@ -19,5 +19,5 @@ def divide(num_1, num_2)
 end
 
 def join_string(string_1, string_2)
-	
+	return string_1 + string_2
 end
